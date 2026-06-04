@@ -1,2 +1,2 @@
 # RC-aircraft
-RC aircraft project for hack club fallout.
+RC aircraft project for hack club fallout *in progress*
