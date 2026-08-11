@@ -15,7 +15,7 @@ Features:
 --------------------
 Components Needed
 --------------------
-=====
+
 QUICK LIST:
 -----
 Servos 5x,
