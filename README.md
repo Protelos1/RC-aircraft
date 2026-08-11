@@ -18,11 +18,11 @@ Components Needed
 =====
 QUICK LIST:
 -----
-Servos 5x
-Radiomaster pocket -ELRS-
-Motor Propellor and esc combo
-ELRS Reciver
-Battery
+Servos 5x,
+Radiomaster pocket -ELRS-,
+Motor Propellor and esc combo,
+ELRS Reciver,
+Battery,
 
 
 -----------
@@ -166,7 +166,7 @@ Good brand for safety and not using 2.0 conector
 
 
 
-TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE      TEMPLATE      TEMPLATE      TEMPLATE      TEMPLATE     TEMPLATE      TEMPLATE     TEMPLATE
+TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE     TEMPLATE      TEMPLATE      TEMPLATE      TEMPLATE      TEMPLATE     TEMPLATE      TEMPLATE
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
