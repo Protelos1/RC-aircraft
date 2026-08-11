@@ -24,6 +24,8 @@ Motor Propellor and esc combo,
 ELRS Reciver,
 Battery,
 
+3mm depron foam £10~
+
 
 -----------
 EXTRAS
