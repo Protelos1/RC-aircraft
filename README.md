@@ -19,7 +19,7 @@ Features:
 - Made out of cheap and durable foamboard
 - Durable to survive rough landings and small scuffs
 
-***BOM***
+***BOM*** BILL OF MATERIALS
 
 --------------------
 Components Needed
