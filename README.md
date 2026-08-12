@@ -19,11 +19,33 @@ Features:
 - Made out of cheap and durable foamboard
 - Durable to survive rough landings and small scuffs
 
+The main frame of the aircraft will be made out of depron foam for lightweight and durable and bits inside and main fasteners and supports and structural bits will be 3d printed.
+
+
+
+
+
+
+
 ***BOM*** BILL OF MATERIALS
 
 --------------------
 Components Needed
 --------------------
+
+
+Easier to read table:
+
+https://docs.google.com/spreadsheets/d/1qpOrxk7ryxzXITJBfYBbTGxWxvVagKGEyCnP3P_AX54/edit?gid=0#gid=0
+
+
+
+
+
+
+
+
+
 
 QUICK LIST:
 -----
