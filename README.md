@@ -4,7 +4,7 @@ This is an Rc plane bassed on a fixed wing general aviation style aircraft! Hope
 Tools Used:
 Onshape - for designing the basic shape and getting an idea of it 3d and 3d printable parts
 Craft Knife - For cutting the depron sheets
-Hot glue - BE EXTREMELY CAREFUL this can have huge impacts on the aircaft as hot glue is quite heavy and i am designing a 'park flyer' so around 30cm wingspan so pretty small.
+Hot glue - BE EXTREMELY CAREFUL this can have huge impacts on the aircaft as hot glue is quite heavy and i am designing a 'park flyer' so around 50cm wingspan so pretty small.
 Tape - Closing gaps e.c.t
 
 
@@ -92,10 +92,10 @@ Component:
 Radiomaster pocket
 -----
 Link:
-https://www.amazon.co.uk/Radiomaster-Pocket-Transmitter-Portable-Charcoal-Charcoal-No-Battery/dp/B0GWQH5C7N/ref=sr_1_4?crid=27EW25AFIO2ES&dib=eyJ2IjoiMSJ9.9Di9MS6egYNZMOmr-OWF-EKTql6zMuMQxm3s6xtIcx_ICfGq3tGsEvUsFXi14whTkrfJCrQgp878jBGhTdC4VUZnog507sLzKPrSlWNF1chTbef6UfJtRvYqZ2n9gwbbi1cWWJi0Ub8onqgds521-B8G2kStsqd3GTFXj7j1Wl0LhoBIcwXF9hWoSaoeW4REHqLR4aS_r8G6FPnnORi8o6Lx3wPp7_Af_PuW-VUuFaw5Usp5DBubuxjxTJSsQtJlRl7aFO_YysYrbIO-z8OYk5eZwtjk4HioFIjNpWKM8Sc.Pubsh66WED7ZtR1tc0n7grxIGDPWHoehAUNFh0cAe2I&dib_tag=se&keywords=radio%2Bmaster%2Bpocket&qid=1786448151&sprefix=radio%2Bmaster%2B%2Caps%2C124&sr=8-4&th=1
+https://www.unmannedtechshop.co.uk/products/radiomaster-pocket-radio-controller?variant=56578469691773
 -----
 Price:
-£97.99
+£69.90
 -----
 Notes:
 Cheapest ELRS compatible controller that is reliable and that is widely compatible with MICRO recivers, important for weight and balance maximisation.
