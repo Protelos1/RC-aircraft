@@ -1,12 +1,19 @@
-Component diagram
+Component diagram                                                                     Motor
+                                                                                         |
+                                                                        Battery          |
+                                                                          |              |
+                                                                          |              |
+                                                                          |              |
+                    servo-------------------------------     ESC (electronic speed controller ----------------------servo                      
+                  (left wing)                                              |         |                            (right wing)
+                                                                           |         |    
+                                                                           |         |         
+                                                                           |         |     
+                                                                        ELRS reciver |
+                                                                                     |
+                                                                                 Rudder servo
 
 
 
 
-
-                    servo-------------------------------                                                         servo                      
-                  (left wing)                                                                                  (right wing)
-
-
-
-
+Diagram is in the right layout with motor and battery in front for nose weight 2 servos on the wings for ailerons ann elrs reciver at the back for weight along with rudder servo
