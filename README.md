@@ -37,7 +37,7 @@ The main frame of the aircraft will be made out of depron foam for lightweight a
 
 
 
-BILL OF MATERIALS IS NOT FINALISED AND **WILL BE CHANGED**
+⚠️BILL OF MATERIALS IS NOT FINALISED AND **WILL BE CHANGED**⚠️
 
 --------------------
 Components Needed
