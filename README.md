@@ -1,6 +1,15 @@
 # RC-aircraft
 This is an Rc plane bassed on a fixed wing general aviation style aircraft! Hopefully a project that can help infulence and guide other people creating rc/aviation based projects.
-The idea came from looking at rc planes online, you buy the product set it up and use it then enevetably soomething goes wrong a bit breaks or you do a hard landing... and you dont know how the product really works you just turned it on and then flew it. With my project you build your plane from the ground up designing where you want each component and each design choice has an actual impact. Do i want a high or a low wing? for example. When you are learning to fly RC you crash and as you understand the plane and how it works you can fix it easier and properly. With a model you buy online it costs so much to replace and wasteage as you have to replace the whole airframe. But with mine you can salvage the electronics and make a new airframe out of some depron foam and whats that going to cost you a couple £/$.
+
+The idea came from looking at rc planes online, you buy the product set it up and use it then enevetably soomething goes wrong a bit breaks or you do a hard landing... and you dont know how the product really works you just turned it on and then flew it.
+
+With my project you build your plane from the ground up designing where you want each component and each design choice has an actual impact. 
+Do i want a high or a low wing? for example. When you are learning to fly RC you crash and as you understand the plane and how it works you can fix it easier and properly.
+With a model you buy online it costs so much to replace and wasteage as you have to replace the whole airframe. But with mine you can salvage the electronics and make a new airframe out of some depron foam and whats that going to cost you a couple £/$.
+
+
+
+
 
 Tools Used:
 Onshape - for designing the basic shape and getting an idea of it 3d and 3d printable parts
