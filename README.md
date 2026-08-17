@@ -38,17 +38,27 @@ The main frame of the aircraft will be made out of depron foam for lightweight a
 
 
 Phases of this project i invision!
+
 model all cad files and pieces 🟢
+
 Complete initial design 🟢
+
 Send to get funded 🟢
+
 Create the body of the basic plane
+
 Make sure the basic plane is reliable
+
 -------------------------------------
 Ship the project!
 -------------------------------------
+
 Add extra 'cool bits' e.g:
+
 Landing gear
+
 Parachute
+
 and more to come!
 
 And 
