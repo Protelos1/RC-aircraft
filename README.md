@@ -13,9 +13,13 @@ With a model you buy online it costs so much to replace and wasteage as you have
 
 
 Tools Used:
+
 Onshape - for designing the basic shape and getting an idea of it 3d and 3d printable parts
+
 Craft Knife - For cutting the depron sheets
+
 Hot glue - BE EXTREMELY CAREFUL this can have huge impacts on the aircaft as hot glue is quite heavy and i am designing a 'park flyer' so around 50cm wingspan so pretty small.
+
 Tape - Closing gaps e.c.t
 
 
