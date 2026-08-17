@@ -35,6 +35,32 @@ The main frame of the aircraft will be made out of depron foam for lightweight a
 
 
 
+| Name                                                                  | Quantity | Price in GBP | Price in USD (converted 17/08/2026) | Notes                                             | Link                                                                                                   | 
+|-----------------------------------------------------------------------|----------|--------------|-------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Radio Master Pocket ELRS                                              | 1        | 69.9         | 94.75                               | Cheapest value ELRS controller on the market      | https://www.unmannedtechshop.co.uk/products/radiomaster-pocket-radio-controller?variant=56578469691773 |  
+|                                                                       |          |              |                                     |                                                   |                                                                                                        |
+| Radio Master ER4 4CH ELRS Reciver                                     | 1        | 14.99        | 20.32                               | 4 Channel Reciver                                 | https://www.hobbyrc.co.uk/radiomaster-er4-4ch-elrs-receiver                                            | 
+|                                                                       |          |              |                                     |                                                   |                                                                                                        |  
+| T-Motor AT 12A 2-3S Fixed Wing ESC                                    | 1        | 8.4          | 11.39                               | ESC 2-3s with a BEC                               | https://www.hobbyrc.co.uk/t-motor-at-12a-3s-fixed-wing-esc                                             | 
+|                                                                       |          |              |                                     |                                                   |                                                                                                        |  
+| BetaFPV LAVA 450mAh 2S 75C LiHV Batteries (2pcs) (XT30)               | 1        | 18.6         | 25.22                               | 2 batteries for better flight time and redundancy | https://www.hobbyrc.co.uk/betafpv-lava-2s-450mah-75c-lihv-batteries-2pcs                               |  
+| Radiomaster 3200mAh 18650 cells                                       | 1        | 11.99        | 16.26                               | Batteries for the controller                      | https://www.hobbyrc.co.uk/radiomaster-3200mah-18650-cells-2pcs                                         |  
+| All from Hobbyrc above                                                |          |              |                                     |                                                   |                                                                                                        |  
+| And Amazon/Rapid Rc below                                             |          |              |                                     |                                                   |                                                                                                        |  
+|                                                                       |          |              |                                     |                                                   |                                                                                                        | 
+| Flite Test "Radial" 1806 2280kV Brushless Motor                       | 1        | 21.99        | 29.81                               | Specifically made for rc foam builds              | https://www.rapidrcmodels.com/flite-test-radial-1806-2280kv-brushless-motor-13175-p.asp                |  
+|                                                                       |          |              |                                     |                                                   |                                                                                                        |
+| Things i will fund myself in future, when i buy i will add links here |          | 145.87 GBP   | 197.75 USD                          |                                                   |                                                                                                        |
+| - battery charger amazon                                              |          |              |                                     |                                                   |                                                                                                        |
+| -servos                                                               |          |              |                                     |                                                   |                                                                                                        |   
+| -Propellor                                                            |          |              |                                     |                                                   |                                                                                                        |   
+| - LiPo Safety/Fire bag                                                |          |              |                                     |                                                   |                                                                                                        |   
+
+
+
+
+
+
 
 
 
