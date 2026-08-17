@@ -1,7 +1,7 @@
 # RC-aircraft
-This is an Rc plane bassed on a fixed wing general aviation style aircraft! Hopefully a project that can help infulence and guide other people creating rc/aviation based projects.
+This is an Rc plane bassed on a fixed wing general aviation style aircraft! Hopefully a project that can help guide other people creating rc/aviation based projects and inspire them.
 
-The idea came from looking at rc planes online, you buy the product set it up and use it then enevetably soomething goes wrong a bit breaks or you do a hard landing... and you dont know how the product really works you just turned it on and then flew it.
+The idea came from looking at rc planes online, you buy the product set it up and use it then something goes wrong a bit breaks or you do a hard landing... and you dont know how the product really works you just turned it on and then flew it.
 
 With my project you build your plane from the ground up designing where you want each component and each design choice has an actual impact. 
 Do i want a high or a low wing? for example. When you are learning to fly RC you crash and as you understand the plane and how it works you can fix it easier and properly.
