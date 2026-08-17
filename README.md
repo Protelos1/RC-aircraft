@@ -30,7 +30,7 @@ Features:
 ---------
 - Manuvers well in the air
 - Easy to maintain and fix
-- Parachute system for emergencies with easy deployment - will be done after initial airframe is tested and built -
+- Parachute system for emergencies with easy deployment --- will be done after initial airframe is tested and built ---
 - Made out of cheap and durable foamboard
 - Durable to survive rough landings and small scuffs
 
