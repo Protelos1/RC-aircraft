@@ -18,18 +18,21 @@ Features:
 
 # Design Preview
 
-###Front Image
+### Front Image
 <img width="1190" height="357" alt="image" src="https://github.com/user-attachments/assets/59c05c20-ce49-4837-99f8-4bb620649a11" />
 
-###Side View
+### Side View
 <img width="952" height="420" alt="image" src="https://github.com/user-attachments/assets/08efb843-43e2-41c4-ab8e-80fb9f3a7060" />
 
-###Wing Rib
+### Wing Rib
 <img width="1109" height="492" alt="image" src="https://github.com/user-attachments/assets/a0a233e1-4fef-49af-a776-063d48ced92b" />
 
-###Wiring Diagram
+### Wiring Diagram
 <img width="1542" height="900" alt="image" src="https://github.com/user-attachments/assets/a6b7a942-debc-4d73-be3a-aef5395e5aba" />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Why An Rc Plane?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The idea came from looking at rc planes online, you buy the product set it up and use it then something goes wrong a bit breaks or you do a hard landing... and you dont know how the product really works you just turned it on and then flew it.
 
@@ -39,18 +42,18 @@ Do i want a high or a low wing? for example. When you are learning to fly RC you
 With a model you buy online it costs so much to replace and wasteage as you have to replace the whole airframe. But with mine you can salvage the electronics and make a new airframe out of some depron foam and whats that going to cost you a couple £/$.
 
 
-#Image Gallery
+# Image Gallery
 
-###Bulkead
+### Bulkead
 <img width="604" height="616" alt="image" src="https://github.com/user-attachments/assets/c57853d1-844f-4623-8839-f4fdf7b342f1" />
 
-###Battery Holder to maintain CG (centre of gravity)
+### Battery Holder to maintain CG (centre of gravity)
 <img width="1095" height="546" alt="image" src="https://github.com/user-attachments/assets/48cb3681-e2fb-4a23-a9fa-84984be6f754" />
 
-###Servo Holder (9g)
+### Servo Holder (9g)
 <img width="666" height="532" alt="image" src="https://github.com/user-attachments/assets/6d874f35-0cd1-44f9-aa48-1f5a01682364" />
 
-###Basic control Horn
+### Basic control Horn
 <img width="663" height="661" alt="image" src="https://github.com/user-attachments/assets/3b5606bb-92f3-4fe6-9513-cb971568bedb" />
 
 
