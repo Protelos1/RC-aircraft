@@ -5,6 +5,14 @@ A durable small and easily repairable rc plane.
 
 <img width="995" height="262" alt="Screenshot 2026-08-14 164230" src="https://github.com/user-attachments/assets/b7e6ad5d-4a91-4878-b2da-fb01c55bb02e" />
 
+---------
+Features:
+---------
+- Manuvers well in the air
+- Easy to maintain and fix
+- Parachute system for emergencies with easy deployment --- will be done after initial airframe is tested and built ---
+- Made out of cheap and durable foamboard
+- Durable to survive rough landings and small scuffs
 
 
 
@@ -55,14 +63,6 @@ Tape - Closing gaps e.c.t
 
 
 
----------
-Features:
----------
-- Manuvers well in the air
-- Easy to maintain and fix
-- Parachute system for emergencies with easy deployment --- will be done after initial airframe is tested and built ---
-- Made out of cheap and durable foamboard
-- Durable to survive rough landings and small scuffs
 
 The main frame of the aircraft will be made out of depron foam for lightweight and durable and bits inside and main fasteners and supports and structural bits will be 3d printed.
 
