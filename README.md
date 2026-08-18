@@ -1,6 +1,9 @@
 # RC-aircraft
 **SKYLITE-RC PLANE** 
+
 A durable small and easily repairable rc plane.
+
+<img width="995" height="262" alt="Screenshot 2026-08-14 164230" src="https://github.com/user-attachments/assets/b7e6ad5d-4a91-4878-b2da-fb01c55bb02e" />
 
 
 
@@ -36,8 +39,6 @@ With my project you build your plane from the ground up designing where you want
 Do i want a high or a low wing? for example. When you are learning to fly RC you crash and as you understand the plane and how it works you can fix it easier and properly.
 With a model you buy online it costs so much to replace and wasteage as you have to replace the whole airframe. But with mine you can salvage the electronics and make a new airframe out of some depron foam and whats that going to cost you a couple £/$.
 
-
-<img width="995" height="262" alt="Screenshot 2026-08-14 164230" src="https://github.com/user-attachments/assets/b7e6ad5d-4a91-4878-b2da-fb01c55bb02e" />
 
 
 
