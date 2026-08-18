@@ -1,7 +1,8 @@
 # RC-aircraft
 **SKYLITE-RC PLANE** 
 
-A durable small and easily repairable rc plane.
+This project is designed as a small, durable, repairable fixed wing rc plane for flying in limited space and tinkering with!
+
 
 <img width="995" height="262" alt="Screenshot 2026-08-14 164230" src="https://github.com/user-attachments/assets/b7e6ad5d-4a91-4878-b2da-fb01c55bb02e" />
 
