@@ -28,7 +28,8 @@ Features:
 <img width="1109" height="492" alt="image" src="https://github.com/user-attachments/assets/a0a233e1-4fef-49af-a776-063d48ced92b" />
 
 ### Wiring Diagram
-<img width="1542" height="900" alt="image" src="https://github.com/user-attachments/assets/a6b7a942-debc-4d73-be3a-aef5395e5aba" />
+<img width="734" height="692" alt="image" src="https://github.com/user-attachments/assets/f6315afd-6df4-4b09-8b00-60a3f15c5cda" />
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Why An Rc Plane?
