@@ -4,9 +4,9 @@ Journal.md
 **Skylite \- BOM**  
 I will be submitting for funding of the parts\!\!\!
 
-## **BOM \- Link (let me know via a comment if it doesn't work (it should))**
+## BOM \- Link (let me know via a comment if it doesn't work (it should))##
 
-## **Finished up the Bill of materials and i also just changed the github made it look better e.c.t**
+## Finished up the Bill of materials and i also just changed the github made it look better e.c.t##
 
 Things i had to think about today  
 I made sure all the parts fit and worked with each other connectors brands e.c.t.  
