@@ -1,6 +1,6 @@
 Journal.md
 
-1h 8m 50s  Total : 9h 16m 45s
+1h 8m  Total : 9h 14m
 <img width="1600" height="424" alt="bom rc plane" src="https://github.com/user-attachments/assets/328a3adb-b220-401b-8eeb-09d8ecded89a" />
 **Skylite \- BOM**  
 I will be submitting for funding of the parts\!\!\!
@@ -14,7 +14,7 @@ I made sure all the parts fit and worked with each other connectors brands e.c.t
 I have fully committed to ELRS (ExpressLRS for the radio)  
 I have considered battery weight vs power and how that will affect the aircraft and also considered the weight of the aircraft and the power produced by the motor.
 
-1h 2m 42s  Total : 8h 7m 55s
+1h 2m   Total : 8h 6m
 <img width="1095" height="546" alt="battery holder rc plane" src="https://github.com/user-attachments/assets/0811e47e-6563-426c-a17a-08faeea9e54f" />
 <img width="1109" height="492" alt="rib rc plane" src="https://github.com/user-attachments/assets/96e4c6c3-8dce-40d1-8045-66df91054588" />
 <img width="604" height="616" alt="bulkead rc plane" src="https://github.com/user-attachments/assets/cde63154-ec23-4dc9-bc63-3b382bccf161" />
@@ -34,7 +34,7 @@ The battery tray holder was especially designed for reusable cable ties to threa
 You may have to use 2 ties depending on battery size.  
 But the holder has a specific under channel to allow the tie to sit flush with the plastic and being allowed to be glued down inside the aircraft.
 
-38m 2s Total : 7h 5m 13s
+38m  Total : 7h 4m
 <img width="734" height="692" alt="wiring rc plane" src="https://github.com/user-attachments/assets/8d67940e-66dd-4513-9359-f981c695185b" />
 
 Worked on the place where the components will go and how they will be wired together.  
@@ -53,7 +53,7 @@ Tape….. a bit weak
 Ziptie…… impractical  
 A 3d printed locking mechanism\!\!\!
 
-3h 5m 7s  Total : 6h 27m 11s
+3h 5m  Total : 6h 26m
 <img width="980" height="381" alt="plane rc plane" src="https://github.com/user-attachments/assets/3e1a7716-805e-4e08-99d1-71755cffb993" />
 <img width="632" height="392" alt="rc plane in construction" src="https://github.com/user-attachments/assets/3bb6de4b-8fb2-4e62-ae15-30ec67c3f871" />
 
@@ -87,23 +87,23 @@ The landing gear is in a traditional tail dragger design with a rear wheel
 The stance of the gear will be at a forward and downward angle so the wheels sit slightly ahead of the wings leading edge to prevent flipping over also to absorb max impact without breaking  
 As well as the gear i am going to test belly landings (landings with no gear) they have to be preformed on something soft grass for example. But because the plane is so light belly landings should not be an issue.
 
-1hr 29m 2s Total :  3hr 22m 4s
+1hr 29m Total : 3h 5m
 <img width="1122" height="404" alt="component diagram" src="https://github.com/user-attachments/assets/88375e43-fc55-4a2c-9d95-c6771a881487" />
 
 Improving git hub for rc plane adding component diagrams e.c.t  
 And working out how to wire the components together.
 
-34m 43s  Total : 1h 53m 02s
+34m  Total : 1h 52m
 <img width="666" height="532" alt="servo holder" src="https://github.com/user-attachments/assets/2aeaa1a7-79ac-4800-a7b2-e4dd1fcd8a54" />
 
 Rc Servo Holder (Modeled the rc servo holder to fit the standard 9g servo in onshape) 
 
-43m 13s Logged Total : 1h 18m 19s 
+43m Logged Total : 1h 18m
 <img width="887" height="406" alt="parachute rc plane" src="https://github.com/user-attachments/assets/f45c46c4-b2af-489c-8a39-e9138a3d1f62" />
 
 Servo System For parachute mottled in onshape and it is a mock up design not a thing to print.
 
-35m 6s Logged  
+35m Logged  
 <img width="663" height="661" alt="control horn rc plane" src="https://github.com/user-attachments/assets/c1f62d4c-ad23-4ff7-8940-5456ecb9bc4c" />
 
 Control horn for control surfaces and quick mockup of vague ideas of what the plane will look like. 
