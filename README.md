@@ -62,7 +62,7 @@ With a model you buy online it costs so much to replace and wasteage as you have
 <img width="663" height="661" alt="image" src="https://github.com/user-attachments/assets/3b5606bb-92f3-4fe6-9513-cb971568bedb" />
 
 ### BOM
-<img width="1820" height="629" alt="image" src="https://github.com/user-attachments/assets/bcb33aad-0b6f-40d2-8855-13bf68269005" />
+Is in the files list under BOM.cvs
 
 
 
