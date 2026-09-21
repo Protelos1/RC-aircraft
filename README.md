@@ -7,6 +7,10 @@ It is also designed to inspire and help other people develop aviation/rc based p
 
 <img width="995" height="262" alt="Screenshot 2026-08-14 164230" src="https://github.com/user-attachments/assets/b7e6ad5d-4a91-4878-b2da-fb01c55bb02e" />
 
+## Message for reviewer: The second shortest journal reccord which doesnt have an image or over 100+ words you can disregard as i cant make it go away, I have moved this project over from stardance and i have added the time i spent and the lapses but its not redgistering, and issues you can dm me if you want.
+
+
+
 ---------
 Features:
 ---------
